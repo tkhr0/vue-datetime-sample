@@ -1,6 +1,6 @@
 # vue-datetime
 
-> A Vue.js project
+https://github.com/mariomka/vue-datetime hands on
 
 ## Build Setup
 
