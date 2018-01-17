@@ -28,4 +28,8 @@ export default {
   margin-top: 60px;
 }
 
+
+.vdatetime-calendar__month {
+  text-align: left;
+}
 </style>
